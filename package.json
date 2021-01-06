@@ -1,0 +1,14 @@
+{
+  "name": "fylo-dark",
+  "version": "1.0.0",
+  "description": "fylo website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch styles/scss:styles/css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.47.0"
+  }
+}
