@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../scss/main.sass","../scss/_globals.sass","../scss/_vars.sass"],"names":[],"mappings":"AAAQ;ACAR;AACA;EACE;EACA;;;AAGF;EACE;;;AAGF;EACE;;;AAGF;EACE;EACA;EACA;;;AAEF;EACE,OCnBM;EDoBN;EACA;EACA;;;AAEF;EACE,OCpBK;EDqBL,cCrBK","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../scss/main.scss"],"names":[],"mappings":"AAAQ","file":"main.css"}
