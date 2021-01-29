@@ -408,7 +408,7 @@ body {
 @media (max-width: 639px) {
   .intro {
     padding-top: 4.8rem;
-    background: url(./images/bg-curvy-mobile.svg), linear-gradient(var(--color-lighter-bg) 61%, var(--color-main-bg) 61%);
+    background: url(../../images/bg-curvy-mobile.svg), linear-gradient(var(--color-lighter-bg) 61%, var(--color-main-bg) 61%);
     background-position-y: 52%;
     background-repeat: no-repeat;
     background-size: contain;
@@ -425,7 +425,7 @@ body {
 @media (min-width: 640px) {
   .intro {
     padding-top: 7.5rem;
-    background: url(./images/bg-curvy-desktop.svg);
+    background: url(../../images/bg-curvy-desktop.svg);
     background-position-y: bottom;
     background-repeat: no-repeat;
     background-size: contain;
@@ -642,7 +642,7 @@ body {
 
 .productive-link::after {
   content: "";
-  background-image: url(./images/icon-arrow.svg);
+  background-image: url(../../images/icon-arrow.svg);
   background-size: contain;
   display: inline-block;
   vertical-align: middle;
@@ -667,7 +667,7 @@ body {
   }
 }
 .testimonials__container {
-  background-image: url(./images/bg-quotes.png);
+  background-image: url(../../images/bg-quotes.png);
   background-repeat: no-repeat;
   display: flex;
   flex-direction: row;
